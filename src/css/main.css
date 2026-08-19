@@ -168,3 +168,16 @@ font-size: 20px;
 height: 175px;
 }
 }
+/* How to Start */
+.how-list{
+    margin-top: 0;
+}
+.how-item{
+width: 352px;
+    height: 269px;
+}
+@media only screen and (min-width: 1440px) {
+.how-item {
+height: 280px;
+}
+}
